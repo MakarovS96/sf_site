@@ -11,3 +11,5 @@ nmcli device reapply $DEV
 
 ### Set Hostname #######
 hostnamectl set-hostname $HOSTNAME
+
+echo "some changes"
